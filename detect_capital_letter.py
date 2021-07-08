@@ -49,7 +49,7 @@ program yields this error:
 """
 
 """
-Recognizing punctaution as a capital
+Program recognizing punctuation as a capital
 
 How to fix this ? ? ? 
 
